@@ -1,2 +1,2 @@
 # create-for-learning
-this is my first repository to learn github
+this is palak first repository to learn github
